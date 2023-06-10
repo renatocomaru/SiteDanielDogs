@@ -1,4 +1,4 @@
-# Site do Hotel para Cachorros 🐶
+# Website Daniel Dogs, Hotel para Cachorro 🐶
 
 Este repositório contém o código-fonte para um site de hotel para cachorros. É composto por HTML e CSS, oferecendo um design clean, atraente e responsivo para os visitantes.
 
