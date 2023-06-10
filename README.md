@@ -6,7 +6,7 @@ Este repositório contém o código-fonte para um site de hotel para cachorros. 
 
 ## 💻 Sobre o site
 
-Este site foi desenvolvido com a intenção de fornecer uma visão geral dos nossos serviços e instalações, bem como facilitar o contato e a reserva de estadias.
+Este site foi desenvolvido com a intenção de atualizar o site do cliente que foi feito de maneira simples no GoogleSites e apresentava problemas com google meta tags, SEO, etc.
 
 ## 🔧 Instalação e Uso
 
