@@ -17,7 +17,7 @@ Para usar este projeto localmente, siga os passos abaixo:
 
 ## 📝 Licença
 
-Este projeto está sob a licença Apache 2.0. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença Creative Commons Zero v1.0 Universal Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 💬 Contato
 
