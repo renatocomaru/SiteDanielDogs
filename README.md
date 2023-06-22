@@ -1,6 +1,6 @@
 # Website Daniel Dogs, Hotel para Cachorro 🐶
 
-Este repositório contém o código-fonte para um site de hotel para cachorros. É composto por HTML e CSS, oferecendo um design clean, atraente e responsivo para os visitantes.
+Este repositório contém o código-fonte para um tema WordPress simples de hotel para cachorros. É composto por header, index e footer.php, além do arquivo de estilo CSS, oferecendo um design clean, atraente e responsivo para os visitantes.
 
 ![Imagem de preview do site](https://i.imgur.com/fXr09is.png)
 
