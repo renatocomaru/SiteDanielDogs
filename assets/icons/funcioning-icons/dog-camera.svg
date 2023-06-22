@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   height="40"
-   viewBox="0 -960 960 960"
-   width="40"
+   height="180"
+   viewBox="0 -960 4320 4320"
+   width="180"
    version="1.1"
    id="svg185"
-   sodipodi:docname="photo_camera_FILL1_wght400_GRAD0_opsz40.svg"
+   sodipodi:docname="dog-camera.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,17 +23,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="14.654788"
-     inkscape:cx="15.831003"
-     inkscape:cy="13.783891"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="2.590625"
+     inkscape:cx="84.728589"
+     inkscape:cy="91.869723"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="239"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg185" />
   <path
-     d="M480-264q73 0 123.167-50.167 50.166-50.166 50.166-123.166 0-73.667-50.166-123.5Q553-610.666 480-610.666q-73.667 0-123.5 49.833t-49.833 123.5q0 73 49.833 123.166Q406.333-264 480-264ZM146.666-120q-27 0-46.833-19.833T80-186.666v-502.001q0-26.333 19.833-46.5 19.833-20.166 46.833-20.166h140.001L360-840h240l73.333 84.667h140.001q26.333 0 46.499 20.166Q880-715 880-688.667v502.001q0 27-20.167 46.833Q839.667-120 813.334-120H146.666Z"
+     d="m 2166.0796,2307.9546 q 380.7095,0 642.3404,-261.6308 261.6257,-261.6257 261.6257,-642.3352 0,-384.1881 -261.6257,-644.07713 -261.6309,-259.88901 -642.3404,-259.88901 -384.1881,0 -644.0771,259.88901 -259.889,259.88903 -259.889,644.07713 0,380.7095 259.889,642.3352 259.889,261.6308 644.0771,261.6308 z M 427.67646,3058.9433 q -140.81037,0 -244.24342,-103.433 Q 80,2852.0772 80,2711.2669 V 93.231716 Q 80,-44.10012 183.43304,-149.27504 286.86609,-254.44474 427.67646,-254.44474 H 1157.8095 L 1540.2557,-696 h 1251.6478 l 382.4462,441.55526 h 730.1331 q 137.3318,0 242.5015,105.1697 105.1749,105.17492 105.1749,242.506756 V 2711.2669 q 0,140.8103 -105.1749,244.2434 -105.1697,103.433 -242.5015,103.433 z"
      id="path183"
-     style="fill:#f7ecdf;fill-opacity:1" />
+     style="fill:#f7ecdf;fill-opacity:1;stroke-width:5.2152" />
 </svg>

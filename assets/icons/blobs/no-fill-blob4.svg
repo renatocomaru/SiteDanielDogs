@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 30 30"
+   viewBox="0 0 120 120"
    version="1.1"
    id="svg4"
    sodipodi:docname="no-fill-blob4.svg"
-   width="30"
-   height="30"
+   width="120"
+   height="120"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,18 +23,18 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="8.29"
-     inkscape:cx="21.230398"
-     inkscape:cy="30.39807"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="2.9309576"
+     inkscape:cx="32.242022"
+     inkscape:cy="62.778117"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="239"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
      fill="#fe7f4c"
-     d="m 22.031213,6.3826503 c 2.51951,1.662877 5.475737,2.8554455 6.13081,4.8038677 0.655073,1.965219 -1.024601,4.686291 -2.133186,7.407362 -1.125382,2.704276 -1.713268,5.425348 -3.392941,6.970648 -1.662878,1.528503 -4.43434,1.864437 -6.466747,0.856633 -2.032405,-1.0246 -3.342551,-3.376144 -5.962842,-4.602306 C 7.5860149,20.592692 3.6555776,20.508709 2.3118383,18.963409 0.96809921,17.434906 2.2278547,14.428289 3.756358,12.093542 5.3016581,9.7587951 7.132503,8.0791211 9.1145183,6.2482764 11.113331,4.4342284 13.263314,2.4522131 15.379703,2.5361969 c 2.099592,0.067187 4.148795,2.2003729 6.65151,3.8464534 z"
+     d="m 89.536678,25.140441 c 10.603742,6.998471 23.045472,12.017578 25.802452,20.21781 2.75697,8.270924 -4.31219,19.722971 -8.97784,31.175013 -4.73634,11.381358 -7.210551,22.833405 -14.279711,29.337036 -6.998476,6.43294 -18.662597,7.84677 -27.216292,3.60527 C 56.311601,105.16338 50.797651,95.266553 39.769757,90.106063 28.741858,84.945569 12.200013,84.592114 6.544681,78.088483 0.88935001,71.655545 6.1912232,59.001739 12.624163,49.1756 19.127794,39.349461 26.833184,32.280297 35.174798,24.574908 43.587106,16.94021 52.635637,8.5985963 61.542783,8.952055 70.379237,9.2348217 79.00362,18.21266 89.536678,25.140441 Z"
      id="path2"
-     style="stroke-width:1.5;fill:none;stroke:#fe7f4c;stroke-opacity:1;stroke-dasharray:none" />
+     style="fill:none;stroke:#fe7f4c;stroke-width:6.31298;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
