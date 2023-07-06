@@ -655,7 +655,7 @@ h3 {
 
 .price-div .price-right .price-img1 {
   position: relative;
-  box-shadow: -40px 40px #ffffff;
+  box-shadow: -10px 10px #ffffff;
   top: 0;
   left: 0;
   z-index: 1;
@@ -663,7 +663,7 @@ h3 {
 
 .price-div .price-right .price-img2 {
   position: relative;
-  box-shadow: 40px 40px #ffffff;
+  box-shadow: 10px 10px #ffffff;
   top: 30%;
   right: 15%;
   z-index: 1;
