@@ -319,7 +319,7 @@ h3 {
 }
 
 .about-us .about-left .abt-img1 {
-  box-shadow: 40px 40px #ffffff;
+  box-shadow: 10px 10px #ffffff;
   position: relative;
   top: 0px;
   left: 0px;
@@ -327,7 +327,7 @@ h3 {
 }
 
 .about-us .about-left .abt-img2 {
-  box-shadow: -40px -40px #ffffff;
+  box-shadow: -10px -10px #ffffff;
   position: relative;
   bottom: 35%;
   z-index: 1;
