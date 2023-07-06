@@ -756,16 +756,22 @@ h3 {
 
 .content2 .footer .subtitle {
   font-size: 1.2rem;
-  font-weight: bold;
-  color: #353535;
+  font-weight: 800;
+  color: #f7ecdf;
 }
 
 .content2 .footer .footer-two .functioning,
 .content2 .footer .footer-three .functioning,
 .content2 .footer .footer-four .functioning {
+  font-family: "Ubuntu", sans-serif;
   font-weight: 500;
   margin-top: 10px;
   margin-bottom: 25px;
+}
+
+.subtitle2 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
 }
 
 .content2 .footer-one .dani-logo-mobile {
