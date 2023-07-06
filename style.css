@@ -20,6 +20,24 @@ Version: 1.2
   --main-padding: 40px;
 }
 
+@font-face {
+  font-family: "Raleway";
+  src: url("/assets/fonts/Raleway-Regular.woff2") format("woff2"),
+    url("/assets/fonts/Raleway-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("/assets/fonts/Ubuntu-Regular.woff2") format("woff2"),
+    url("/assets/fonts/Ubuntu-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 body {
   background-color: #f7ecdf;
   font-family: var(--main-font);
@@ -72,7 +90,7 @@ h3 {
   display: flex;
   align-items: center;
   gap: 10px;
-  font-weight: 800;
+  font-weight: 600;
   color: var(--main-color);
 }
 
@@ -175,13 +193,13 @@ h3 {
 .home .main-content .main-content-left .slogan {
   font-size: 4.2rem;
   color: #353535;
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .home .main-content .main-content-left .slogan-btn {
   font-size: 2rem;
   display: flex;
-  font-weight: 800;
+  font-weight: 600;
   color: #fe7f4c;
   position: relative;
   transition: opacity 0.5s ease;
@@ -341,14 +359,14 @@ h3 {
 
 .about-us .about-right h1 {
   font-size: 3rem;
-  font-weight: 800;
+  font-weight: 600;
   color: #353535;
   margin-bottom: 35px;
 }
 
 .about-us .about-right h2 {
   font-size: 28px;
-  font-weight: 800;
+  font-weight: 600;
   color: #fe7f4c;
   margin-bottom: 10px;
 }
@@ -358,6 +376,7 @@ h3 {
   font-weight: 500;
   color: #353535;
   margin-bottom: 20px;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .functioning-div {
@@ -416,6 +435,7 @@ h3 {
 
 .functioning-div .list p {
   font-weight: 700;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .gallery-div {
@@ -593,7 +613,8 @@ h3 {
 
 .restriction-div .list p {
   font-size: 20px;
-  font-weight: 800;
+  font-weight: 600;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .price-div-mobile {
@@ -627,6 +648,7 @@ h3 {
   font-size: 1.2rem;
   color: #353535;
   font-weight: 500;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .price-div .price-item {
@@ -735,6 +757,7 @@ h3 {
 .content2 .footer .subtitle {
   font-size: 1.2rem;
   font-weight: bold;
+  color: #353535;
 }
 
 .content2 .footer .footer-two .functioning,
@@ -777,6 +800,7 @@ h3 {
 
   .content .top-header p {
     font-size: 0.9rem;
+    font-family: "Ubuntu", sans-serif;
   }
 
   .content1 .main-header {
@@ -881,11 +905,14 @@ h3 {
   .about-us-mobile .about-left-mobile .about-mobile-items h2 {
     font-size: 1.8rem;
     margin-bottom: 20px;
+    color: #353535;
   }
 
   .about-us-mobile .about-left-mobile .about-mobile-items p {
     font-size: 1.5rem;
     margin-bottom: 20px;
+    color: #353535;
+    font-family: "Ubuntu", sans-serif;
   }
 
   .functioning-div .functioning-left {
@@ -910,6 +937,8 @@ h3 {
 
   .functioning-div .list p {
     font-size: 1.2rem;
+    color: #353535;
+    font-family: "Ubuntu", sans-serif;
   }
 
   .gallery-div {
@@ -1075,13 +1104,13 @@ h3 {
   .home-mobile .main-content .main-content-left .slogan {
     font-size: 2.5rem;
     color: #353535;
-    font-weight: 800;
+    font-weight: 600;
   }
 
   .home-mobile .main-content .main-content-left .slogan-btn {
     font-size: 1.2rem;
     display: flex;
-    font-weight: 800;
+    font-weight: 600;
     color: #fe7f4c;
     position: relative;
     transition: opacity 0.5s ease;
@@ -1179,6 +1208,8 @@ h3 {
 
   .about-us-mobile .about-left-mobile .about-mobile-items p {
     font-size: 1.2rem;
+    color: #353535;
+    font-family: "Ubuntu", sans-serif;
   }
 
   .functioning-div {
@@ -1187,6 +1218,7 @@ h3 {
 
   .functioning-div .title {
     font-size: 2rem;
+    color: #353535;
   }
 
   .functioning-div .subtitle {
@@ -1250,6 +1282,7 @@ h3 {
 
   .restriction-div .subtitle {
     font-size: 1.2rem;
+    color: #353535;
   }
 
   .restriction-div .list {
@@ -1276,6 +1309,7 @@ h3 {
 
   .price-div-mobile .price-item {
     font-size: 1.2rem;
+    color: #353535;
   }
 
   .price-div-mobile .price-item img {
