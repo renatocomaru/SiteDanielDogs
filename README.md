@@ -6,7 +6,7 @@ Este repositório contém o código-fonte para um site simples 'Single-Page' e e
 
 ## 💻 Sobre o site
 
-Este site foi desenvolvido com a intenção de atualizar o site do cliente que foi feito de maneira no GoogleSites e apresentava problemas com google meta tags, SEO, lighthouse, etc.
+Este site foi desenvolvido com a intenção de atualizar o site do cliente que foi feito no GoogleSites e apresentava problemas com google meta tags, SEO, lighthouse, etc.
 
 ## 🔧 Instalação e Uso
 
